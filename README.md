@@ -8,7 +8,7 @@ You are a group of creative, innovative, and energetic programmers who intend to
 
 Choose one company or industry that your team would like to propose a software solution to enhance their business as part of their innovation drive.
 
-Each team is required to create aGitHub repository to manage the group’s project. Your GitHub repository should at least include the following (but not limiting):
+Each team is required to create a GitHub repository to manage the group’s project. Your GitHub repository should at least include the following (but not limiting):
 
 - Task allocation
 - Schedule
