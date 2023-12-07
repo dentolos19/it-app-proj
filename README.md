@@ -1,4 +1,6 @@
-# IT Application Project
+# Mandrive
+
+A mock ride-hailing app created with Scratch!
 
 ## Project Information
 
