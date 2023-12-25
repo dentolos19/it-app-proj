@@ -1,6 +1,6 @@
 <h1>
     <img src="assets/icon.png" style="height: 1em"/>
-    <span>Mandrips</span>
+    <span>Mandrive</span>
 </h1>
 
 A mock ride-hailing app created with Scratch!
