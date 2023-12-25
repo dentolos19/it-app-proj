@@ -1,4 +1,7 @@
-# Mandrive
+<h1>
+    <img src="assets/icon.png" style="height: 1em"/>
+    <span>Mandrips</span>
+</h1>
 
 A mock ride-hailing app created with Scratch!
 
@@ -12,11 +15,11 @@ Choose one company or industry that your team would like to propose a software s
 
 Each team is required to create a GitHub repository to manage the group’s project. Your GitHub repository should at least include the following (but not limiting):
 
-- Task allocation
-- Schedule
+- Task allocation (via [GitHub Projects](https://github.com/users/dentolos19/projects/2))
+- Schedule (via [GitHub Projects](https://github.com/users/dentolos19/projects/2))
 - Source codes
 - Discussion
-- Presentation slides
+- Presentation slides (via [docs](./docs))
 - References to materials, journals and websites must be clearly included
 - All other necessary resources or records
 
