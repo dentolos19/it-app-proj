@@ -1,7 +1,4 @@
-<h1>
-    <img src="assets/icon.png" style="height: 1em"/>
-    <span>Mandrive</span>
-</h1>
+# Mandrive
 
 A mock ride-hailing app created with Scratch!
 
@@ -9,7 +6,7 @@ A mock ride-hailing app created with Scratch!
 
 You are a group of creative, innovative, and energetic programmers who intend to propose a software solution to a business challenge. Using the software development methodology, each team shall provide project proposal, create the design, document the specifications, and build the IT application project that can bring value(s) to the company or industry.
 
-### Task
+### Our Task
 
 Choose one company or industry that your team would like to propose a software solution to enhance their business as part of their innovation drive.
 
@@ -25,7 +22,7 @@ Each team is required to create a GitHub repository to manage the group’s proj
 
 The application framework for this project shall mainly be Scratch for the IT application. Where appropriate, you may utilise other additional development tools.
 
-### Members
+### Team Members
 
 - Dennise
 - Yan Jun
