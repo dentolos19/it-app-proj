@@ -1,8 +1,11 @@
-# Mandrive
+<h1>
+    <img src="assets/icon.png" alt="Icon" height="30">
+    <span>Mandrive</span>
+</h1>
 
 A mock ride-hailing app created with Scratch!
 
-## Project Information
+## 🫂 Project Information
 
 You are a group of creative, innovative, and energetic programmers who intend to propose a software solution to a business challenge. Using the software development methodology, each team shall provide project proposal, create the design, document the specifications, and build the IT application project that can bring value(s) to the company or industry.
 
@@ -24,7 +27,11 @@ The application framework for this project shall mainly be Scratch for the IT ap
 
 ### Team Members
 
-- Dennise
+- Dennise (Leader)
 - Yan Jun
 - Mandrix
 - Killian
+
+## 📜 License
+
+Distributed under the MIT License. See [LICENSE](./LICENSE) for more information.
